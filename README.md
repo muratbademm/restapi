@@ -43,8 +43,11 @@ Domain olarak **Kategori**, **Ürün**, **Tedarikçi** yönetimi yapılmaktadır
 
 ---
 Properties Bölümü
+
 spring.datasource.url=jdbc:mysql://localhost:3306/restapi
+
 spring.datasource.username=admin
+
 spring.datasource.password=**
 
 📬 Örnek API Endpoint’leri
